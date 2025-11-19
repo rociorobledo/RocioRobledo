@@ -1,4 +1,4 @@
-## Hi there 👋
+### 👋 Hola! Soy Rocio Robledo
 Técnica en Administración, finalizando la Licenciatura en Administración de Empresas y cursando la Diplomatura en Ciencia de Datos con R y Python.
 
 Transformo datos sin procesar en información estratégica para mejorar procesos, apoyar la toma de decisiones y resolver necesidades reales del negocio.
