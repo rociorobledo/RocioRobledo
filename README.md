@@ -1,4 +1,4 @@
-## Hola!, Soy Rocio 👋
+## Hola! Soy Rocio 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Analista+de+Datos+%7C+Business+Intelligence;Visualización+de+Datos+y+Analítica+Digital;Transformando+datos+en+insights+claros;Analista+remota+lista+para+sumar+valor" alt="Typing SVG" />
