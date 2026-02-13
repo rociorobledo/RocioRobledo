@@ -34,14 +34,3 @@ Dashboard en Power BI con datos públicos del SIAC sobre tráfico aéreo en Arge
 Análisis de funnel de conversión y puntos de abandono con Looker Studio.  
 🔗 **[Ver online](https://rociorobledo.github.io/user-journey/)**
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rociorobledo&style=flat-square&color=blueviolet" alt="Profile views">
-</p>
-#### Business Intelligence & Analítica
-<p>
-  <img src="https://img.shields.io/badge/Definición%20de%20KPIs-Avanzado-96CEB4?style=flat">
-  <img src="https://img.shields.io/badge/Data%20Storytelling-Avanzado-FF6B6B?style=flat">
-  <img src="https://img.shields.io/badge/Analítica%20de%20Clientes-Experiencia-4ECDC4?style=flat">
-</p>
